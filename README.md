@@ -1,4 +1,4 @@
-# Instagram Influencer Analysis
+# Instagram Business Influence Analysis
 
 ## Overview
 This project provides a comprehensive data analysis and visualization tool for identifying influential Instagram profiles within specific geographical regions. Leveraging Python libraries such as Pandas, Plotly, and Streamlit, it collects, processes, and analyzes Instagram data to extract key metrics such as follower count, engagement rate, and posting frequency. By utilizing machine learning techniques including K-means clustering, profiles are grouped into distinct clusters based on their characteristics, offering insights into user behavior and influence patterns.
